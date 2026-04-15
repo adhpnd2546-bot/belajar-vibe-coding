@@ -1,0 +1,6 @@
+jalur belajar mengenai frontend
+1. html
+2. css dasar
+3. css box model, grid & flex
+4. javascript
+5. git
